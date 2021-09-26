@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/pages/Home.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CACnB,KAGC,uBAAwB,CACzB,IAGC,YAAa","file":"main.1711feee.chunk.css","sourcesContent":[".main {\r\n  text-align: center;\r\n}\r\n\r\nbody {\r\n  background-color: orange;\r\n}\r\n\r\nimg {\r\n  height: 500px;\r\n}\r\n"]}
