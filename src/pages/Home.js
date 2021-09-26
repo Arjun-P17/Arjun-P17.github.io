@@ -1,24 +1,22 @@
 import { useState } from "react";
 import profileImage from "../img/arjun-pic.jpg";
+import Navbar from "../components/Navbar/Navbar";
 import "./Home.scss";
 
 function Home() {
-  const [name, setName] = useState("Arjun");
+   const [name, setName] = useState("Arjun");
 
-  return (
-    <div className="main">
-      <h1> My Website </h1>
-      <h2> Author: {name}</h2>
-      <img src={profileImage} alt="Profile" />\
-      <div>
-        <button
-          onClick={() => setName(name == "Arjun" ? "Pushpavannan" : "Arjun")}
-        >
-          Click Me
-        </button>
+   return (
+      <div className="main">
+         <Navbar />
+         <div className="header">
+            <h1 className="title"> Arjun Pushpavannan</h1>
+         </div>
+         <div className="content">
+            <img src={profileImage} alt="Profile" />\<div></div>
+         </div>
       </div>
-    </div>
-  );
+   );
 }
 
 export default Home;
