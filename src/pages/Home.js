@@ -1,22 +1,26 @@
-import { useState } from "react";
-import profileImage from "../img/arjun-pic.jpg";
+import React from "react";
 import Navbar from "../components/Navbar/Navbar";
-import "./Home.scss";
+import Header from "../components/Header/Header";
+import Work from "../components/Work/Work";
+import About from "../components/About/about";
+import Skills from "../components/Skills/skills";
+import Promotion from "../components/Promotion/Promotion";
+import Footer from "../components/Footer/Footer";
+import "./home.scss";
 
-function Home() {
-   const [name, setName] = useState("Arjun");
-
-   return (
-      <div className="main">
-         <Navbar />
-         <div className="header">
-            <h1 className="title"> Arjun Pushpavannan</h1>
-         </div>
-         <div className="content">
-            <img src={profileImage} alt="Profile" />\<div></div>
-         </div>
-      </div>
-   );
-}
-
+const Home = () => {
+  return (
+    <>
+      <main>
+        <Navbar></Navbar>
+        <Header></Header>
+        <Work></Work>
+        <About></About>
+        <Skills></Skills>
+        <Promotion></Promotion>
+        <Footer></Footer>
+      </main>
+    </>
+  );
+};
 export default Home;
