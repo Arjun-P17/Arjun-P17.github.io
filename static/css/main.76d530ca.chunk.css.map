@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/App.css"],"names":[],"mappings":"AAAA,MACE,iBACF,CAEA,KACE,uBACF,CAEA,IACE,YACF","file":"main.76d530ca.chunk.css","sourcesContent":[".main {\r\n  text-align: center;\r\n}\r\n\r\nbody {\r\n  background-color: orange;\r\n}\r\n\r\nimg {\r\n  height: 500px;\r\n}\r\n"]}

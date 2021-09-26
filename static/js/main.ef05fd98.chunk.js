@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-website"]=this["webpackJsonppersonal-website"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);n(1);var s=n(3),c=n.n(s),r=n.p+"static/media/arjun-pic.5665ea8f.jpg",i=(n(8),n(0));var a=function(){return Object(i.jsxs)("div",{className:"main",children:[Object(i.jsx)("h1",{children:" My React App "}),Object(i.jsx)("h2",{children:" Author: Arjun"}),Object(i.jsx)("img",{src:r,alt:"Profile"})]})};c.a.render(Object(i.jsx)(a,{}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.ef05fd98.chunk.js.map
