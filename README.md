@@ -1,4 +1,4 @@
-Adapted from this template: (http://www.github.com/chetanverma16/react-portfolio-template)
+Adapted from this template: http://www.github.com/chetanverma16/react-portfolio-template
 
 # Getting Started with Create React App
 
