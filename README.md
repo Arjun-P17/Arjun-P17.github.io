@@ -1,3 +1,5 @@
+Adapted from this template: github.com/chetanverma16/react-portfolio-template
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
