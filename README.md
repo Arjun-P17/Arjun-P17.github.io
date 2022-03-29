@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Credit
+
+This website is a small modification of the template provided by https://github.com/chetanverma16/react-portfolio-template
+
 ## Available Scripts
 
 In the project directory, you can run:
