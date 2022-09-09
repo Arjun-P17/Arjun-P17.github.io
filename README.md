@@ -1,10 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://arjun-p17.github.io/Website/
 
 ## Credit
 
-This website is a small modification of the template provided by https://github.com/chetanverma16/react-portfolio-template
+This website is a modification of the template provided by https://github.com/chetanverma16/react-portfolio-template
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
